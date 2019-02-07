@@ -5,5 +5,5 @@ This is basicly a walkthrough.
 Packages I will be using:
 - i3-gaps
 - i3Status
-- Cava
+- [Cava](https://github.com/karlstav/cava)
 - [pyWal](https://github.com/dylanaraps/pywal)
